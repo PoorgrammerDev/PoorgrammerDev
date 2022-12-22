@@ -18,12 +18,9 @@ Welcome to my profile! I'm an aspiring game developer and an undergraduate Compu
 <td>
 <strong>CubeRunner</strong>
 <br>
-<p>
-3D synthwave-themed endless runner game built in Unity
-<br>
+<p>3D synthwave-themed endless runner game built in Unity</p>
 <a href="https://poorgrammerdev.github.io/cuberunner/"><img src="https://img.shields.io/badge/webpage-e12d5a?style=for-the-badge&logo=github-pages&logoColor=white"/></a>
 <a href="https://github.com/PoorgrammerDev/CubeRunner"><img src="https://img.shields.io/badge/repository-1d295b?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 </td>
 </tr>
 <tr>
