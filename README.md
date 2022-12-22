@@ -1,3 +1,4 @@
+
 ## Hi, I'm Thomas 👋😃
 
 Welcome to my profile! I'm an aspiring game developer and an undergraduate Computer Science student at UC Irvine.
@@ -20,14 +21,8 @@ Welcome to my profile! I'm an aspiring game developer and an undergraduate Compu
 <p>
 3D synthwave-themed endless runner game built in Unity
 <br>
-<center>
-<table width="90%">
-<tr>
-<a href="https://poorgrammerdev.github.io/cuberunner/"><td width="50%"><center><img src="https://img.shields.io/badge/webpage-e12d5a?style=for-the-badge&logo=github-pages&logoColor=white"/></center></td></a>
-<a href="https://github.com/PoorgrammerDev/CubeRunner"><td width="50%"><center><img src="https://img.shields.io/badge/repository-1d295b?style=for-the-badge&logo=github&logoColor=white" /></center></td></a>
-</tr>
-</table>
-</center>
+<a href="https://poorgrammerdev.github.io/cuberunner/"><img src="https://img.shields.io/badge/webpage-e12d5a?style=for-the-badge&logo=github-pages&logoColor=white"/></a>
+<a href="https://github.com/PoorgrammerDev/CubeRunner"><img src="https://img.shields.io/badge/repository-1d295b?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 </td>
 </tr>
@@ -39,14 +34,7 @@ Welcome to my profile! I'm an aspiring game developer and an undergraduate Compu
 <strong>BadlandsCaves</strong>
 <br>
 <p>Minecraft Spigot plugin featuring custom survival experience</p>
-<center>
-<table width="90%">
-<tr>
-<!-- <a href=""><td width="50%"><center>Webpage</center></td></a> -->
-<a href="https://github.com/PoorgrammerDev/BadlandsCaves"><td width="50%"><center><img src="https://img.shields.io/badge/repository-f97d11?style=for-the-badge&logo=github&logoColor=white" /></center></td></a>
-</tr>
-</table>
-</center>
+<a href="https://github.com/PoorgrammerDev/BadlandsCaves"><img src="https://img.shields.io/badge/repository-f97d11?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 </tr>
 </table>
