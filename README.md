@@ -13,6 +13,19 @@ Welcome to my profile! I'm an aspiring game developer and an undergraduate Compu
 <table>
 <tr>
 <td>
+<!-- <img src="" width="125"/> -->
+</td>
+<td>
+<strong>Spellbook</strong>
+<br>
+<p>UCI VGDC Quarter-long Team Project: Head Programmer</p>
+<p>A bullet-hell boss-rush game in which you cast spells and dodge attacks all using your keyboard</p>
+<a href="https://kingben.itch.io/spellbook"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
+<a href="https://github.com/BenWargowski/Spellbook"><img src="https://img.shields.io/badge/repository-1d295b?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
+</tr>
+<tr>
+<td>
 <img src="https://github.com/PoorgrammerDev/CubeRunner/raw/media/rounded.png" width="125"/>
 </td>
 <td>
