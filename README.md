@@ -13,7 +13,7 @@ Welcome to my profile! I'm an aspiring game developer and an undergraduate Compu
 <table>
 <tr>
 <td>
-<!-- <img src="" width="125"/> -->
+<img src="https://raw.githubusercontent.com/PoorgrammerDev/PoorgrammerDev/main/media/spellbook-logo.png" width="125"/>
 </td>
 <td>
 <strong>Spellbook</strong>
