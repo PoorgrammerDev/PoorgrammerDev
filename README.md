@@ -1,7 +1,9 @@
 
 ## Hi, I'm Thomas 👋😃
 
-Welcome to my profile! I'm an aspiring game developer and an undergraduate Computer Science student at UC Irvine.
+Welcome to my profile! I'm a UC Irvine Computer Science newgrad and am looking for Software Engineering roles.
+
+My main areas of interest are back-end development and game development!
 
 ### Skills
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![ARMv8 Assembly](https://img.shields.io/badge/ARMv8%20Assembly-4EAA25?style=for-the-badge&logo=arm&logoColor=white)
