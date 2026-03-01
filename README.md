@@ -15,7 +15,7 @@ I like making game development projects and gamedev-adjacent projects (like game
         <td>
             <strong>VanillaPlus</strong>
             <br>
-            <p>Minecraft Spigot plugins designed to enhance the vanilla survival experience</p>
+            <p>Collection of small to medium-scale Minecraft Spigot plugins to enhance the vanilla survival experience</p>
             <a href="https://github.com/PoorgrammerDev/VanillaPlus">
                 <img src="https://img.shields.io/badge/repository-53A018?style=for-the-badge&logo=github&logoColor=white" />
             </a>
@@ -70,7 +70,7 @@ I like making game development projects and gamedev-adjacent projects (like game
         <td>
             <strong>BadlandsCaves</strong>
             <br>
-            <p>Minecraft Spigot plugin featuring custom survival playthrough experience</p>
+            <p>Fully custom Minecraft survival playthrough experience via large-scale Spigot plugin</p>
             <a href="https://github.com/PoorgrammerDev/BadlandsCaves">
                 <img src="https://img.shields.io/badge/repository-f97d11?style=for-the-badge&logo=github&logoColor=white" />
             </a>
