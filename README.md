@@ -1,18 +1,27 @@
 
-## Hi, I'm Thomas 👋😃
+## Hi, I'm Thomas 👋
 
-Welcome to my profile! I'm a UC Irvine Computer Science newgrad and am looking for Software Engineering roles.
+Welcome to my GitHub page!
 
-My main areas of interest are back-end development and game development!
-
-### Skills
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![ARMv8 Assembly](https://img.shields.io/badge/ARMv8%20Assembly-4EAA25?style=for-the-badge&logo=arm&logoColor=white)
-    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)  ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  
+I like making game development projects and gamedev-adjacent projects (like game mods/server plugins) in my free time.
 
 ### Projects
 
 <table>
+<tr>
+<td>
+<p>No image yet</p>
+</td>
+<td>
+<strong>VanillaPlus</strong>
+<br>
+<p>Minecraft server plugins designed to enhance the vanilla survival experience</p>
+<a href="https://github.com/PoorgrammerDev/VanillaPlus"><img src="https://img.shields.io/badge/repository-1d295b?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
+<td>
+<p>2023-2024</p>
+</td>
+</tr>
 <tr>
 <td>
 <img src="https://raw.githubusercontent.com/PoorgrammerDev/PoorgrammerDev/main/media/spellbook-logo.png" width="125"/>
@@ -24,6 +33,9 @@ My main areas of interest are back-end development and game development!
 <p>A bullet-hell boss-rush game in which you cast spells and dodge attacks all using your keyboard</p>
 <a href="https://kingben.itch.io/spellbook"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
 <a href="https://github.com/BenWargowski/Spellbook"><img src="https://img.shields.io/badge/repository-1d295b?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
+<td>
+<p>2023</p>
 </td>
 </tr>
 <tr>
@@ -37,6 +49,9 @@ My main areas of interest are back-end development and game development!
 <a href="https://poorgrammerdev.github.io/cuberunner/"><img src="https://img.shields.io/badge/webpage-e12d5a?style=for-the-badge&logo=github-pages&logoColor=white"/></a>
 <a href="https://github.com/PoorgrammerDev/CubeRunner"><img src="https://img.shields.io/badge/repository-1d295b?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
+<td>
+<p>2021</p>
+</td>
 </tr>
 <tr>
 <td>
@@ -47,6 +62,9 @@ My main areas of interest are back-end development and game development!
 <br>
 <p>Minecraft Spigot plugin featuring custom survival experience</p>
 <a href="https://github.com/PoorgrammerDev/BadlandsCaves"><img src="https://img.shields.io/badge/repository-f97d11?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
+<td>
+<p>2020, 2022</p>
 </td>
 </tr>
 </table>
