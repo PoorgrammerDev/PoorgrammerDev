@@ -21,7 +21,7 @@ I like making game development projects and gamedev-adjacent projects (like game
             </a>
         </td>
         <td>
-            <p>2023-2024</p>
+            <p>2023-2025</p>
         </td>
     </tr>
     <tr>
